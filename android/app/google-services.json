@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134751304864",
+    "firebase_url": "https://qrcoedscanner.firebaseio.com",
+    "project_id": "qrcoedscanner",
+    "storage_bucket": "qrcoedscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134751304864:android:260d1db4bc01fdf1",
+        "android_client_info": {
+          "package_name": "com.company.reactnativenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134751304864-19ot44dnk5u485husi19q8ebnk1kkdbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJJGn9dgl0UyyGlkxT9z0VZx_LBB5RGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134751304864-19ot44dnk5u485husi19q8ebnk1kkdbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
